@@ -1,0 +1,151 @@
+{
+  "casino": {
+    "name": "Caisno Royale",
+    "address": "5655 W Valencia Rd, Tucson, AZ 85757, United States",
+    "phone": "+1 855-765-7829",
+    "mail": "mail@casinoroyale.com",
+    "description": "If you are a Casino connoisseur, you should not miss the experience of floating casinos of Tucson. Plan for a visit to Royale Casino and enjoy the luxurious ambiance filled with fun and entertainment including music, dance, and brook of games is just what you need.Fulfilling all of these needs, the Royale is one of the best off-shore casino cruises. Spread across an area of 50,000 sq. ft. and sailing on the Rillito river, the casino provides you with one of the best experiences to cherish for a lifetime.",
+    "policies": [
+      {
+        "title": "Age Policy:",
+        "details": [
+          "Children aged 12 - 20 will be charged at a child price but can get entry in casino.",
+          "The permissible age for entry on the Casino floor is 21 years and above.",
+          "No access to Gaming floor. Access to Sky Bar only for teens of age 15 & above."
+        ]
+      },
+      {
+        "title": "Confirmation Policy",
+        "details": [
+          "The customer receives a confirmation voucher via email within 15 minutes of successful booking."
+        ]
+      }
+    ],
+    "services": [
+      {
+        "name": "Regular - [Unlimited Food + Unlimited House Brand Liquors + Skip-the-line]",
+        "description": "Try your luck and casino and make your evening memorable by indulging in a range of games. Enjoy live entertainment and the ultimate snacks and dinner in the casino.",
+        "price": "500",
+        "currency": "$",
+        "duration": "5 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Unlimited House Brand Liquor: Signature, Budweiser",
+          "Feeder Boat Services",
+          "The talented lineup of musicians, DJs and bands",
+          "Skip-the-line entry"
+        ]
+      },
+      {
+        "name": "Premium - [Unlimited Food + Unlimited IMFL Brand Liquors + Skip-the-line]",
+        "description": "Grab tickets for FNB Premium and enjoy a range of snacks, buffet dinner, beverages, and liquor.",
+        "price": "800",
+        "currency": "$",
+        "duration": "10 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Unlimited House Brand Liquor: Chivas 12yrs, Paul John Nirvana",
+          "Feeder Boat Services",
+          "The talented lineup of musicians, DJs and bands",
+          "Skip-the-line entry"
+        ]
+      },
+      {
+        "name": "Marco Antonio Solis",
+        "description": "2023 world tour at AVA Amphitheater. Tickets on sale.",
+        "price": "200",
+        "currency": "$",
+        "duration": "2 hours",
+        "inclusions": [
+          "Unlimited Food"
+        ]
+      },
+      {
+        "name": "Electronic Craps, Roulette And Blackjack!",
+        "description": "Come play electronic Roulette, Blackjack and Craps in the all new Interblock Stadium at Casino Del Sol  The innovative, electronic gaming space is composed of  high-definition LCD displays and generators that deliver Roulette, Blackjack and Craps games",
+        "price": "1200",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Free 2 rounds"
+        ]
+      },
+      {
+        "name": "Jose Lara Y Grupo Xprezzion, Louie S & The Band, And La Nueva Onda",
+        "description": "Enjoy your favourite tuscan band at Friday, February 10 at 8:00 PM,Sunset Room at Casino of the Sun",
+        "price": "900",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food"
+        ]
+      },
+      {
+        "name": "Roulette - Feeling lucky?",
+        "description": "This might be one of the easiest games in the casino to understand.  Place a bet on your favorite number or a combination of your favorite or lucky numbers.  Watch the dealer spin the ball around the edge of the wheel and feel the excitement build as you wait as you wait for the ball to drop!",
+        "price": "500",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Free 1 round"
+        ]
+      },
+      {
+        "name": "EZ Baccarat",
+        "description": "Baccarat is one of the oldest and most elegant casino games.  Originating in mid-19th century France, you might recognize it from several movies featuring the greatest British Secret Service agent of all time!   ",
+        "price": "500",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Free 1 round"
+        ]
+      },
+      {
+        "name": "High Card Flush",
+        "description": "High Card Flush is a “suit” based game played against the Dealer. High Card Flush includes multiple ways to win offering a Flush Bonus side bet, Straight Flush Bonus side bet, and an optional $1 Progressive side bet. The object of the game is to get the greatest number of cards in any one suit. Bet just 1 or bet both progressive wagers to double your fun. Now offering a $1 & $5 high card flush progressive jackpot wager.",
+        "price": "500",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "Free 1 round"
+        ]
+      },
+      {
+        "name": "Spa at our resort",
+        "description": "Perhaps your visit starts with a vigorous cardio workout in the fitness room, followed by an herbal wrap or body scrub. Pamper yourself with a therapeutic sports or aromatherapy massage. Bring a spouse or friend and enjoy a couple’s getaway in our double treatment room. The choice of how you want to experience total rejuvenation is completely up to you.",
+        "price": "2000",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "A couple entry"
+        ]
+      },
+      {
+        "name": "Golf at our resort",
+        "description": "When it came time for the Pascua Yaqui Tribe to design their own Tucson golf course, they knew they wanted a unique creation. One that would work within the land and honor its natural gifts and wonders.",
+        "price": "1000",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food"
+        ]
+      },
+      {
+        "name": "Valentine’s Day Buffet",
+        "description": "Valentine’s Day Seafood Buffet at Festa from 1pm - 7pm. $45 per person.++ Enjoy our famous International Buffet with the additions of snow crab, oysters, shrimp, prime rib and more.",
+        "price": "1000",
+        "currency": "$",
+        "duration": "4 hours",
+        "inclusions": [
+          "Unlimited Food",
+          "A couple entry"
+        ]
+      }
+    ]
+  }
+}
